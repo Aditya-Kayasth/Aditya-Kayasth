@@ -1,11 +1,11 @@
-# 👋 Hey there, I'm Aditya Kayasth (@Aditya-Kayasth)<br><br>
+# 👋 Hey there, I'm Aditya Kayasth (@Aditya-Kayasth)<br>
 
-# 💫 About Me:<br><br>- 
-👀 **Interests:** Tech wizardry, web dev magic, data analysis, and machine learning.<br>- 
-🌱 **Learning:** Advanced data science techniques. 📊<br>- 
-💞️ **Collaborations:** Keen to team up on web dev, data analysis, and ML projects. Let's create something amazing!<br>- 
-📫 **Contact:** [adikayasth@gmail.com](mailto:adikayasth@gmail.com) ✉️<br>- 
-⚡ **Fun fact:** It may seem like I'm busy in my own world, but trust me, I notice everything.<br><br>
+# 💫 About Me:<br>
+-👀 **Interests:** Tech wizardry, web dev magic, data analysis, and machine learning.<br>
+-🌱 **Learning:** Advanced data science techniques. 📊<br>
+-💞️ **Collaborations:** Keen to team up on web dev, data analysis, and ML projects. Let's create something amazing!<br>
+-📫 **Contact:** [adikayasth@gmail.com](mailto:adikayasth@gmail.com) ✉️<br>
+-⚡ **Fun fact:** It may seem like I'm busy in my own world, but trust me, I notice everything.<br><br>
 
 Let's make the tech world better, one line of code at a time! 🚀<br>
 
