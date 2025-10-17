@@ -1,68 +1,86 @@
-<!--
-This is a professional, project-focused README for Aditya Kayasth.
-It's designed to be clean, engaging, and aligned with career goals in Data Science and AI.
--->
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D32%26pause%3D1000%26color%3D1572B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHey%252C%2BI%27m%2BAditya%2BKayasth%2B%25F0%259F%2591%258B%3BData%2BScience%2B%2526%2BML%2BEnthusiast%3BProblem-Solver%2B%2526%2BDeveloper" alt="Typing SVG" /></a>
+
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hey+%F0%9F%91%8B+I'm+Aditya+Kayasth;Data+Scientist+%7C+ML+Engineer;Building+Practical+AI+Solutions" alt="Typing SVG" />
+
+### 🧠 Deconstructing Problems • Building Solutions • Learning Relentlessly
+
+[![GitHub followers](https://img.shields.io/github/followers/Aditya-Kayasth?style=for-the-badge&color=1E90FF&labelColor=000000)](https://github.com/Aditya-Kayasth)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aditya-Kayasth&style=for-the-badge&color=DC143C&labelColor=000000)](https://github.com/Aditya-Kayasth)
+
 </div>
 
-<p align="center">
-A proactive and curious Data Science student from Nagpur, India, with a passion for building practical solutions to complex problems. I thrive on deconstructing challenges and learning new technologies to bring ideas to life.
-</p>
+---
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/aditya-kayasth" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
-<a href="mailto:adikayasth@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
-</p>
+## 🚀 Featured Projects
 
-🚀 Featured Projects
-
-Here are a couple of projects I'm particularly proud of. They represent my passion for tackling real-world data challenges.
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
-<h3><a href="https://www.google.com/search?q=https://github.com/Aditya-Kayasth/News-Lens" target="_blank">📰 News Lens</a></h3>
-<p>A backend system to combat misinformation by aggregating news from 150,000+ sources, analyzing articles for bias using NLP, and generating factual summaries.</p>
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dflat-square%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NLTK-3776AB%3Fstyle%3Dflat-square" alt="NLTK">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/BeautifulSoup-6C757D%3Fstyle%3Dflat-square" alt="BeautifulSoup">
-</p>
+<td width="50%">
+
+### 🎯 FactCheckr — *Combat Misinformation at Scale*
+- Aggregates **150K+ news sources**
+- NLP-powered **bias detection & factual summaries**
+- Designed for **truth transparency** in media  
+- **Tech:** Python · Flask · NLP · APIs  
+- 🔗 [View Project](https://github.com/Aditya-Kayasth/FactCheckr)
+
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://www.google.com/search?q=https://github.com/Aditya-Kayasth/Hunting-Exoplanets-using-ML" target="_blank">🪐 Hunting Exoplanets</a></h3>
-<p>An ML model to detect exoplanets from noisy Kepler Telescope data. This project was a deep dive into handling severe class imbalance, where a 99% accuracy model was useless until techniques like SMOTE and FFT were applied to boost recall.</p>
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/XGBoost-006400%3Fstyle%3Dflat-square" alt="XGBoost">
-</p>
+<td width="50%">
+
+### 🪐 Exoplanet Detection — *ML for Space Exploration*
+- Analyzes **NASA Kepler Telescope data**
+- Tackles **99% class imbalance** using SMOTE  
+- Uses **FFT + ML classification** for signal insights  
+- **Tech:** Python · Scikit-learn · Pandas  
+- 🔗 [View Project](https://github.com/Aditya-Kayasth/Exoplanet-Detection)
+
 </td>
 </tr>
 </table>
 
-🛠️ Core Toolkit
+---
 
-These are the technologies I'm most comfortable with and use regularly in my projects.
+## 🧰 Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/NLTK-3776AB%3Fstyle%3Dfor-the-badge" alt="NLTK">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05033%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
-</p>
+<div align="center">
 
-📊 GitHub Stats
+| **Category** | **Tools & Frameworks** |
+|:-------------:|:----------------------|
+| **Languages** | Python · Java · JavaScript · TypeScript |
+| **Backend** | Flask · Spring Boot · FastAPI |
+| **Frontend** | Next.js · HTML5 · CSS3 |
+| **ML & NLP** | Scikit-learn · NLTK · TextBlob · BeautifulSoup · Newspaper3k · TF-IDF |
+| **Data & Databases** | Pandas · NumPy · MongoDB · Oracle |
+| **DevOps & Tools** | Git · GitHub · Docker (learning) |
 
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAditya-Kayasth%26theme%3Dgithub_dark_dimmed%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAditya-Kayasth%26theme%3Dgithub_dark_dimmed%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" alt="Top Languages">
-</p>
+</div>
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Aditya-Kayasth&theme=radical&background=000000&ring=1E90FF&fire=DC143C&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff&border=1E90FF&hide_current_streak=true" alt="Max Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kayasth&layout=compact&theme=radical&bg_color=000000&title_color=1E90FF&text_color=ffffff&border_color=DC143C" alt="Top Languages"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/aditya-kayasth)
+[![Email](https://img.shields.io/badge/Email-Contact-DC143C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://your-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+⭐ *"Curiosity is the compass — code is the map."*  
+Always building, always learning.
+
+</div>
