@@ -1,26 +1,68 @@
-# 👋 Hey there, I'm Aditya Kayasth (@Aditya-Kayasth)<br>
+<!--
+This is a professional, project-focused README for Aditya Kayasth.
+It's designed to be clean, engaging, and aligned with career goals in Data Science and AI.
+-->
 
-# 💫 About Me:<br>
--👀 **Interests:** Tech wizardry, web dev magic, data analysis, and machine learning.<br>
--🌱 **Learning:** Advanced data science techniques. 📊<br>
--💞️ **Collaborations:** Keen to team up on web dev, data analysis, and ML projects. Let's create something amazing!<br>
--📫 **Contact:** [adikayasth@gmail.com](mailto:adikayasth@gmail.com) ✉️<br>
--⚡ **Fun fact:** It may seem like I'm busy in my own world, but trust me, I notice everything.<br><br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DInter%26size%3D32%26pause%3D1000%26color%3D1572B6%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DHey%252C%2BI%27m%2BAditya%2BKayasth%2B%25F0%259F%2591%258B%3BData%2BScience%2B%2526%2BML%2BEnthusiast%3BProblem-Solver%2B%2526%2BDeveloper" alt="Typing SVG" /></a>
+</div>
 
-Let's make the tech world better, one line of code at a time! 🚀<br>
+<p align="center">
+A proactive and curious Data Science student from Nagpur, India, with a passion for building practical solutions to complex problems. I thrive on deconstructing challenges and learning new technologies to bring ideas to life.
+</p>
 
+<p align="center">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/aditya-kayasth" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"></a>
+<a href="mailto:adikayasth@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email"></a>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-Kayasth&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Kayasth&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kayasth&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Featured Projects
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Here are a couple of projects I'm particularly proud of. They represent my passion for tackling real-world data challenges.
 
----
-[![](https://visitcount.itsvg.in/api?id=Aditya-Kayasth&icon=10&color=12)](https://visitcount.itsvg.in)
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://www.google.com/search?q=https://github.com/Aditya-Kayasth/News-Lens" target="_blank">📰 News Lens</a></h3>
+<p>A backend system to combat misinformation by aggregating news from 150,000+ sources, analyzing articles for bias using NLP, and generating factual summaries.</p>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dflat-square%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NLTK-3776AB%3Fstyle%3Dflat-square" alt="NLTK">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/BeautifulSoup-6C757D%3Fstyle%3Dflat-square" alt="BeautifulSoup">
+</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://www.google.com/search?q=https://github.com/Aditya-Kayasth/Hunting-Exoplanets-using-ML" target="_blank">🪐 Hunting Exoplanets</a></h3>
+<p>An ML model to detect exoplanets from noisy Kepler Telescope data. This project was a deep dive into handling severe class imbalance, where a 99% accuracy model was useless until techniques like SMOTE and FFT were applied to boost recall.</p>
+<p>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat-square%26logo%3Dpython%26logoColor%3Dwhite" alt="Python">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dflat-square%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/XGBoost-006400%3Fstyle%3Dflat-square" alt="XGBoost">
+</p>
+</td>
+</tr>
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ Core Toolkit
+
+These are the technologies I'm most comfortable with and use regularly in my projects.
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Flask-000000%3Fstyle%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite" alt="Flask">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/scikit--learn-F7931E%3Fstyle%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite" alt="scikit-learn">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NLTK-3776AB%3Fstyle%3Dfor-the-badge" alt="NLTK">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05033%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git">
+</p>
+
+📊 GitHub Stats
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DAditya-Kayasth%26theme%3Dgithub_dark_dimmed%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DAditya-Kayasth%26theme%3Dgithub_dark_dimmed%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue%26layout%3Dcompact" alt="Top Languages">
+</p>
