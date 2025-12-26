@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1E90FF&height=250&section=header&text=Aditya%20Kayasth&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full%20Stack&descAlignY=55&descSize=20&descColor=ffffff)
 
-### Deconstructing Problems • Building Solutions • Learning Relentlessly
+### Deconstructing Problems • Building Solutions • Always Learning
 
 <p>
 <a href="https://linkedin.com/in/aditya-kayasth">
