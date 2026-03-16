@@ -117,7 +117,7 @@ An analytical model processing telescope data to identify potential exoplanets w
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
 <br><br>
-<a href="https://github.com/Aditya-Kayasth/Exoplanet-Detection">
+<a href="https://github.com/Aditya-Kayasth/Exoplanet-Detection-ML">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
