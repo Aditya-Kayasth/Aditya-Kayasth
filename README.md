@@ -18,7 +18,7 @@
 </a>
 </p>
 
-*Currently a 3rd-year B.Tech CS (Data Science) student and Technical Lead for the ACM Student Chapter.*
+*B.Tech CS (Data Science) student and Technical Lead for the ACM Student Chapter.*
 
 <br>
 
@@ -99,6 +99,9 @@ A full-stack system designed to aggregate news and provide transparency using NL
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google%20gemini&logoColor=white" />
 <br><br>
+<a href="https://github.com/Aditya-Kayasth/NewsLens">
+  <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://news-lens-project.vercel.app">
   <img src="https://img.shields.io/badge/▲_VIEW_DEPLOYMENT-1E90FF?style=for-the-badge&logoColor=white" />
 </a>
@@ -187,6 +190,9 @@ A dashboard integrating ARIMA time-series forecasting with NLTK VADER sentiment 
 <img src="https://img.shields.io/badge/Statsmodels-000000?style=flat-square&logo=scipy&logoColor=white" />
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
 <br><br>
+<a href="https://github.com/Aditya-Kayasth/Financial-Analytics-Mini-Project">
+  <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://aditya-kayasth-financial-analytics-mini-project-app-krfobh.streamlit.app/">
   <img src="https://img.shields.io/badge/▲_VIEW_DEPLOYMENT-1E90FF?style=for-the-badge&logoColor=white" />
 </a>
@@ -208,6 +214,9 @@ An interactive engine analyzing movie datasets using TF-IDF vectorization, featu
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" />
 <br><br>
+<a href="https://github.com/Aditya-Kayasth/Movie-Recommender-System-TF-IDF-Cosine-Similarity">
+  <img src="https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://rgn3gdwu63p8bycoild4ys.streamlit.app/">
   <img src="https://img.shields.io/badge/▲_VIEW_DEPLOYMENT-1E90FF?style=for-the-badge&logoColor=white" />
 </a>
@@ -250,9 +259,9 @@ An AI-powered tool designed to streamline the evaluation process by analyzing an
 * 💻 **Competitive Programming:** Solved 300+ DSA challenges across LeetCode, Codeforces, and CodeChef (Max Rating: 1463 / 2-Star)
 
 ### Professional Certifications
-* ☁️ **Oracle Cloud Infrastructure 2025:** Certified Foundations Associate
-* ☕ **Oracle Certified Professional (OCP):** Java SE 11 and SE 17 Developer
 * 📊 **Google:** Project Management Professional Certificate
+* 🌐 **Meta:** Django Web Framework
+* 📈 **Finance:** Python for Finance: Beta & CAPM
 
 ---
 
